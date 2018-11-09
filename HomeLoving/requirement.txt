@@ -1,0 +1,6 @@
+flask
+flask-blueprint
+flask-script
+flask-sqlalchemy
+pymysql
+flask-session
